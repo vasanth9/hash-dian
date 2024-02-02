@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "hash-dian",
+	"name": "HashDian",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "A Obsidian plugin to publish directly to your Hashnode blog.",
+	"author": "Vasanth Kumar Cheepurupalli",
+	"authorUrl": "https://github.com/vasanth9",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
